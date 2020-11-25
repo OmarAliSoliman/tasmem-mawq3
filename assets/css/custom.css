@@ -1,0 +1,399 @@
+.main-banner {
+  background: url("../images/bg.jpg") no-repeat;
+  background-size: cover;
+}
+.idea-box {
+  text-align: center;
+}
+.idea-box p {
+  text-align: center;
+}
+.idea-box img {
+  display: inline-block;
+  margin: 15px auto;
+}
+.home-ideas {
+  background: #fec131;
+  padding: 80px 0 130px;
+}
+.home-ideas .section-title .heading.text-blue,
+.home-ideas .section-title span {
+  color: #fff;
+}
+.section-content {
+  padding: 80px 0;
+}
+.section-content .text,
+.section-content .img {
+  margin: 20px 0;
+}
+.section-content .text h3 {
+  color: #fec131;
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.section-content .text p {
+  line-height: 29px;
+  color: #555;
+  font-size: 17px;
+}
+
+.steps {
+  background: #2e323d;
+}
+.btns {
+  text-align: right;
+  margin-top: 50px;
+}
+.main-banner .banner-caption p,
+.main-banner .banner-caption h1 {
+  color: #fff;
+}
+.btn {
+  margin: 10px 20px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 30px;
+  background-clip: padding-box;
+  height: 45px;
+  padding: 10px 40px;
+  background: #fec131;
+  border: none !important;
+  outline: none;
+  font-size: 16px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.beast-company {
+  background-color: #123078;
+  margin-top: 30px;
+  padding-top: 100px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.beast-company .section-header h5 {
+  color: #fff;
+  font-size: 40px;
+}
+.beast-company .par {
+  color: #fff;
+  margin-top: 45px;
+  margin-bottom: 60px;
+}
+.beast-company .best-details .best-img {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 408px;
+}
+.beast-company .best-details .card {
+  padding-right: 60px;
+  background-color: transparent;
+  margin-bottom: 40px;
+  border: 0;
+}
+.beast-company .best-details .card .card-icon {
+  background-position: center;
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right: 0;
+}
+.beast-company .best-details .card .card-icon-an {
+  width: 52px;
+  height: 38px;
+}
+.beast-company .best-details .card .card-title {
+  text-align: right;
+  margin-top: 20px;
+  color: #fff;
+}
+
+.beast-company .best-details .card .card-text {
+  color: #fff;
+  margin-right: 0 !important;
+  text-align: right;
+}
+
+.section-content .adv {
+  list-style: none;
+}
+
+.section-content .adv li {
+  position: relative;
+  padding-right: 20px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.section-content .adv li:before {
+  position: absolute;
+  font-family: "FontAwesome";
+  content: "\f0a5";
+  right: 0;
+  top: 0%;
+  margin-top: 2px;
+  /* transform: translate(0, -30%); */
+}
+
+.previlidigis {
+  background-color: #dbd5a2;
+  text-align: center;
+  padding: 50px;
+  padding-bottom: 160px;
+}
+.previlidigis .section-header {
+  text-align: center;
+}
+.previlidigis .section-header h5 {
+  font-size: 32px;
+  color: #3d495e;
+}
+.previlidigis .section-header .section-header-p {
+  font-size: 24px;
+  color: #3d495e;
+}
+.previlidigis .prev-par {
+  font-size: 18px;
+  margin: 20px;
+}
+.previlidigis .prev-world {
+  max-width: 30%;
+  margin: auto;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+.prev-row-cards {
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.prev-row-cards .card {
+  position: relative;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.16);
+  margin-top: 45px;
+  border: 0;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+}
+
+.prev-row-cards .main-card {
+  height: 150px;
+}
+.prev-row-cards .card .card-title {
+  position: absolute;
+  font-size: 130px;
+  color: #ddd;
+  opacity: 0.6;
+  top: -50px;
+  right: 0;
+}
+.prev-row-cards .card img {
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  position: relative;
+  z-index: 2;
+}
+.prev-row-cards .card .card-text {
+  margin-top: 10px;
+  font-size: 17px;
+}
+
+.the-best-company {
+  background-color: #03196c;
+  padding: 50px 0 50px 0;
+  text-align: center;
+  margin-top: 60px;
+  background-size: cover;
+  margin-bottom: 40px;
+  background-position: center;
+}
+.the-best-company h5 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.the-best-company p {
+  color: #fff;
+  padding: 10px 40px;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+.about-company {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.about-company h5 {
+  font-size: 36px;
+}
+.about-company h6 {
+  font-size: 16px;
+  color: #8b8f94;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 30px;
+}
+.about-company h6::after {
+  position: absolute;
+  content: url("../images/after-about.png");
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+.about-company p {
+  font-size: 16px;
+  color: #8b8f94;
+  margin-top: 27px;
+}
+.about-company .about-image {
+  margin-top: 50px;
+}
+.about-company .about-image img {
+  width: 75%;
+  margin: auto;
+}
+.about-company .about-img-1 {
+  text-align: left;
+}
+.about-company .about-img-2 {
+  text-align: right;
+}
+.about-company .about-content {
+  text-align: right;
+  margin-top: 114px;
+}
+.about-company .about-content h5 {
+  font-size: 36px;
+  color: #03196c;
+}
+.about-company .about-content p {
+  font-size: 16px;
+  color: #8b8f94;
+}
+
+.about-company .about-content ul {
+  list-style: none;
+}
+
+.about-company .about-content ul li {
+  position: relative;
+  padding-right: 20px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.about-company .about-content ul li:before {
+  position: absolute;
+  font-family: "FontAwesome";
+  content: "\f0a5";
+  right: 0;
+  top: 0%;
+  margin-top: 2px;
+  /* transform: translate(0, -30%); */
+}
+
+.prevlidges {
+  background-color: #5dcc64;
+  margin-top: 100px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.prevlidges .header-sectoin h5 {
+  font-size: 40px;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.prevlidges .header-sectoin h6 {
+  font-size: 20px;
+  color: #fff;
+  word-spacing: 2px;
+}
+.prevlidges .header-sectoin p {
+  color: #fff;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+.prevlidges .card {
+  text-align: center;
+  padding: 30px 20px;
+  margin-bottom: 30px;
+  border: 0;
+  background-color: #fff;
+  height: 150px;
+}
+.prevlidges .card img {
+  width: 66px;
+  height: 66px;
+  margin: auto;
+}
+.prevlidges .card .card-title {
+  font-size: 16px;
+  margin: 10px;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.develope-steps{
+  margin-top: 0 !important;
+  background-color: #2E323D;
+  padding-bottom: 50px !important;
+  padding-top: 50px;
+}
+
+.develope-steps .header{
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+}
+
+.develope-steps .card .card-head{
+  margin: 0;
+  font-size: 22px;
+  position: relative;
+  z-index: 3;
+}
+
+.develope-steps .card .card-text{
+  position: relative;
+  z-index: 3;
+}
+
+@media (max-width: 800px) {
+  .previlidigis .prev-world {
+    max-width: 100%;
+  }
+  .section-content img{
+    width: 100%;
+  }
+  .prev-row-cards{
+    margin-bottom: 0;
+  }
+}
+
+@media(max-width: 524px){
+  .section-content img{
+    width: 100%;
+  }
+  .previlidigis{
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .prev-row-cards .card{
+    height: auto;
+  }
+}
